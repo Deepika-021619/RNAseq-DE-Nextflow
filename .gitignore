@@ -19,3 +19,4 @@ work/
 .DS_Store
 *.log
 *.tmp
+*.sra
